@@ -37,28 +37,24 @@ button{
     width: 50px;
     height: 25px;
     font-family: 'Protest Strike', sans-serif;
+    color: #ffffff;
 }
 
 /* Different button colors */
 .blue{
     background-color: #8ca6b7;
-    color: #ffffff;
 }
 .darkBlue{
     background-color: #135785;
-    color: #ffffff;
 }
 .grey{
     background-color: #052235;
-    color: #ffffff;
 }
 .redish{
     background-color: #f85959;
-    color: #ffffff; 
     width: 100px !important;
+    background-image: linear-gradient(to right, #f85959, #f8b659);
 }
 .clear_btn{
-    width: 100px;
     color: #da0000;
 }
-    
